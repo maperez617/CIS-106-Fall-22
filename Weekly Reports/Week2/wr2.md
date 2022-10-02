@@ -19,12 +19,12 @@ Virtualization is when there is replication of hardware to simulate a virtual ma
 
 ## Installing Ubuntu
 
-![UbuntuFileSize](Ubuntusize.png)
+![UbuntuFileSize](ubuntu-1.png)
 
-![UbuntuWarning](Ubuntuwarning.png)
+![UbuntuWarning](ubuntu-2.png)
 
-![UbuntuReboot](Ubuntureboot.png)
+![UbuntuReboot](ubuntu-3.png)
 
-![UbuntuUpdate](Ubuntuupdate.png)
+![UbuntuUpdate](ubuntu-4.png)
 
-![UbuntuAdditions](Ubuntuadditions.png)
+![ubuntuadditions](ubuntu-5.png)
