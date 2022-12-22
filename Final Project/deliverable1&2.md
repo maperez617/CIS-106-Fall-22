@@ -47,3 +47,13 @@ a **firewall** is a network security device that monitors network traffic and de
 
 ## What is SSH?
 **SSH (Secure Shell/Secure Socket Shell)** was created to replace insecure login program with a secure program. SSH supports and secures file transfer, remote device management control, tunneling, and forwarding TCP ports and X11 connections. 
+
+# Deliverable 2
+
+![snapshot1](snapshot1.PNG)
+
+![snapshot1](snapshot1.1.PNG)
+
+![snapshot5](snapshot5.1.PNG)
+
+![websiterunning](website.png)
